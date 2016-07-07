@@ -1,10 +1,14 @@
 {
-  "name": "filerun/api-client",
+  "name": "andrea11/api-client",
   "description": "FileRun API Client Library",
   "authors": [
 	{
-	  "name": "Vlad Roman",
-	  "email": "vlad.roman@filerun.com"
+	  "name": "Andrea Accardo",
+	  "email": "andrea.accardo7@gmail.com"
+	},
+	{
+	  "name": "Baptiste Donnet",
+	  "email": "baptiste.donnet@fiducial.net"
 	}
   ],
   "require": {
